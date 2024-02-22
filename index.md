@@ -17,3 +17,6 @@ number = 5
 print("The factorial of", number, "is", factorial(number))
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
